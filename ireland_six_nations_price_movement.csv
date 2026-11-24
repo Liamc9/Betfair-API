@@ -1,0 +1,16 @@
+Match,Selection,T-0,T-5,T-15,T-30,T-60,T-120,T-180,Price Change % (T-60 to T-5),Movement
+England v Ireland,Draw,40.0,38.0,38.0,38.0,40.0,36.0,36.0,-5.0,Shortened
+England v Ireland,England,1.35,1.33,1.33,1.34,1.36,1.34,1.32,-2.2058823529411784,Shortened
+England v Ireland,Ireland,4.3,4.4,4.5,4.5,4.2,4.4,4.5,4.761904761904765,Drifted
+France v Ireland,Draw,55.0,48.0,48.0,50.0,48.0,46.0,46.0,0.0,Unchanged
+France v Ireland,France,1.22,1.23,1.22,1.23,1.23,1.21,1.22,0.0,Unchanged
+France v Ireland,Ireland,6.0,5.9,6.0,6.2,6.0,6.2,6.2,-1.6666666666666607,Shortened
+Ireland v Italy,Draw,80.0,70.0,65.0,75.0,80.0,60.0,50.0,-12.5,Shortened
+Ireland v Italy,Ireland,1.11,1.11,1.12,1.12,1.11,1.12,1.13,0.0,Unchanged
+Ireland v Italy,Italy,11.0,10.5,10.5,10.5,10.5,11.0,10.0,0.0,Unchanged
+Ireland v Scotland,Draw,34.0,34.0,32.0,32.0,29.0,29.0,28.0,17.24137931034483,Drifted
+Ireland v Scotland,Ireland,1.47,1.48,1.48,1.48,1.48,1.48,1.49,0.0,Unchanged
+Ireland v Scotland,Scotland,3.4,3.35,3.35,3.4,3.35,3.35,3.4,0.0,Unchanged
+Ireland v Wales,Draw,130.0,130.0,150.0,100.0,100.0,95.0,90.0,30.0,Drifted
+Ireland v Wales,Ireland,1.05,1.05,1.04,1.04,1.04,1.05,1.05,0.9615384615384623,Drifted
+Ireland v Wales,Wales,25.0,27.0,28.0,26.0,27.0,24.0,22.0,0.0,Unchanged
